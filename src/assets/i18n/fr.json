@@ -1,0 +1,21 @@
+{
+  "HEADER": {
+    "BUTTONS": {
+      "TODO": {
+        "ADD": "Ajouter une tache"
+      },
+      "GROUP": {
+        "LIST": "Liste des groupes",
+        "ADD": "Ajouter un groupe"
+      }
+    }
+  },
+  "TODOS": {
+    "LIST": {
+      "BUTTONS": {
+        "EDIT": "Modifier",
+        "DELETE": "Supprimer"
+      }
+    }
+  }
+}

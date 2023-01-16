@@ -1,0 +1,33 @@
+{
+  "HEADER": {
+    "LANGUAGES": {
+      "EN": "English",
+      "FR": "Francais",
+      "BZH": "Brezhoneg"
+    },
+    "BUTTONS": {
+      "TODO": {
+        "ADD": "Add a todo"
+      },
+      "GROUP": {
+        "LIST": "List of groups",
+        "ADD": "Add a group"
+      }
+    }
+  },
+  "TODOS": {
+    "LIST": {
+      "BUTTONS": {
+        "EDIT": "Edit",
+        "DELETE": "Delete"
+      }
+    }
+  },
+  "GROUPS": {
+    "LIST": {
+      "BUTTONS": {
+        "EDIT": "Edit"
+      }
+    }
+  }
+}

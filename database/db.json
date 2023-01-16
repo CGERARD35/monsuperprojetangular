@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "label": "ONE",
+      "id": 1,
+      "todos": {
+        "limitDate": "2023-12-06T23:00:00.000Z",
+        "status": "TODO",
+        "label": "test",
+        "description": "test",
+        "id": 1
+      }
+    },
+    {
+      "id": 2,
+      "label": "TWO",
+      "todos": {
+        "limitDate": null,
+        "status": "TODO",
+        "label": "tache 45",
+        "description": "LOL",
+        "id": 3
+      }
+    },
+    {
+      "label": "THIRD",
+      "id": 3
+    },
+    {
+      "limitDate": "2022-12-30T23:00:00.000Z",
+      "status": "TODO",
+      "label": "DADA",
+      "description": "DADA",
+      "id": 4
+    }
+  ]
+}
